@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(25, 36, 37);
+}
+.parrafo{
+    color: rgb(203, 240, 219);
+} 
+.titulo{
+    color: rgb(126, 209, 202)
+}
+.bordes{
+    border-style: groove;
+    border-width: 20px;
+    border-color: rgb(50, 67, 61)
+}
